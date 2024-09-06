@@ -62,4 +62,11 @@ body{
     color:white;
 }
 
+.wrapper input[type="submit"]:hover{
+    cursor:pointer;
+    background:rgb(17, 79, 42);
+    color:white;
+}
+
+
 
